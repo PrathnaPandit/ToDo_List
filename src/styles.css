@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  height: 20px;
+  font-weight: bold;
+}
+
+.add {
+  height: 25px;
+  margin-left: 10px;
+}
+
+li {
+  font-size: 17px;
+}
+
+.delete {
+  margin-left: 10px;
+}
